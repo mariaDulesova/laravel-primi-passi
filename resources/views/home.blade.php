@@ -36,6 +36,7 @@
     <div class="flex-center">
         <div class="title">
             <h1>Hello World!</h1>
+        <h3> Hello {{$name}}</h3>
         </div>
     </div>
     
